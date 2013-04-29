@@ -1,0 +1,13 @@
+{
+  "name": "DirectionsDemo",
+  "version": "0.0.1",
+  "description": "A demo app featuring Google Directions API and Google Maps",
+  "dependencies": {
+    "bowser": "",
+    "grunt": "~0.4.0",
+    "grunt-zipstream": "~0.2.0", 
+    "grunt-phonegap-build": "https://github.com/RyanSylvestre/grunt-phonegap-build/tarball/master"
+  },
+  "author": "Martin Naumann",
+  "homepage": "http://www.centralway.com"
+}

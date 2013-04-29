@@ -1,0 +1,12 @@
+{
+  "name": "DirectionsDemo",
+  "description": "A demo app featuring Google Directions API and Google Maps",
+  "version": "0.0.1",
+  "author": {
+    "name": "Martin Naumann"
+  },
+  "main": "js/app.js",
+  "dependencies": {
+    "lungo-angular-bridge": "git@github.com:centralway/lungo-angular-bridge.git#0.0.5"
+  }
+}
